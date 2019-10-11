@@ -1,3 +1,7 @@
 # hello-world
 Test
-Changed
+
+In new branch made before a commit made in master
+
+# Changed
+
